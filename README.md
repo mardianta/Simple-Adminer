@@ -1,4 +1,4 @@
-# Simple-SQL-Admin
+# Simple DB Viewer + SQL Executor
 ```
 <?php
 $host = $_GET['host'] ?? '';
