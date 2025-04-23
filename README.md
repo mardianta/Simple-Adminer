@@ -1,4 +1,4 @@
-# Simple-Adminer
+# Simple-SQL-Admin
 ```
 <?php
 $host = $_GET['host'] ?? '';
